@@ -1,0 +1,25 @@
+name: Make and push site
+
+on: [push]
+
+jobs:
+  make_and_push:
+    runs-on: ubuntu-latest
+    name: Make and push site
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8.12'
+      - name: Install asciidump
+        run: pip install git+https://github.com/honno/asciidump
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Run asciidump
+        run: asciidump .
+      - name: Deploy site
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site

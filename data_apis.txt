@@ -1,0 +1,18 @@
+[0m       [0m[38;5;2m.b.[0m                   [0m[38;5;2m.d.[0m       
+    [0m[38;5;2m_dHHHHHbe.[0m           [0m[38;5;2m.adHHHHHb_[0m    
+  [0m[38;5;2m<YHHHHHHHHHHHbe.[0m   [0m[38;5;2m.adHHHHHHHHHHHP>[0m  
+     [0m[38;5;2m`"YHHHHHHHHHHHvHHHHHHHHHHHP"´[0m     
+[0m[38;5;2mb._[0m      [0m[38;5;2m`"YHHHHHHHHHHHHHHHY"´[0m      [0m[38;5;2m_.d[0m
+[0m[38;5;2mHHHHbe.[0m      [0m[38;5;2m`"YHHHHHHHY"´[0m      [0m[38;5;2m.adHHHH[0m
+[0m[38;5;2mHHHHHHHHbe.[0m      [0m[38;5;2m`"Y"´[0m      [0m[38;5;2m.adHHHHHHHH[0m
+[0m[38;5;2m`"YHHHHHHHHHbe._[0m       [0m[38;5;2m_.adHHHHHHHHHP"´[0m
+    [0m[38;5;2m`"YHHHHHHHHHHb[0m   [0m[38;5;2mdHHHHHHHHHHP"´[0m    
+        [0m[38;5;2m`"YHHHHHHH[0m   [0m[38;5;2mHHHHHHHP"´[0m        
+           [0m[38;5;2mHHHHHHH[0m   [0m[38;5;2mHHHHHHH[0m           
+           [0m[38;5;2mHHHHHHH[0m   [0m[38;5;2mHHHHHHH[0m           
+           [0m[38;5;2mHHHHHHH[0m   [0m[38;5;2mHHHHHHH[0m           
+           [0m[38;5;2mHHHHHHH[0m   [0m[38;5;2mHHHHHHH[0m           
+           [0m[38;5;2mHHHHHHH[0m   [0m[38;5;2mHHHHHHH[0m           
+           [0m[38;5;2mHHHHHHH[0m   [0m[38;5;2mHHHHHHH[0m           
+           [0m[38;5;2mYHHHHHH[0m   [0m[38;5;2mHHHHHHP[0m           
+              [0m[38;5;2m`"^Y[0m   [0m[38;5;2mP^"´[0m              
